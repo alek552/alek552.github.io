@@ -574,84 +574,11 @@ Taborda</td>
 <br>
 
 <h3>C#</h3>
-<a href="/Articles/Csharp.pdf" target="_blank">C#</a>
-<br>
-<a href="/Articles/Windows Process.pdf" target="_blank">Windows Process</a>
-<br>
-<a href="/Articles/Csharp Method Hiding Shadowing and Overriding.pdf" target="_blank">C# Method Hiding Shadowing and Overriding</a>
-<br>
-<a href="/Articles/Value vs Reference Type Passing.pdf" target="_blank">C# Value vs Reference Type Passing</a>
+<a href="/Articles/.NET & C#" target="_blank">.NET & C#</a>
 <br>
 
 
-<h3>ASP.NET Web API</h3>
-<a href="/Articles/ASP.NET Web API Parameter Binding.pdf" target="_blank">
-ASP.NET Web API Parameter Binding
-</a>
-<br>
-<a href="/Articles/ASP.NET Web API Return Types.pdf" target="_blank">
-ASP.NET Web API Return Types
-</a>
-<br>
-<a href="/Articles/ASP.NET Web API Routing.pdf" target="_blank">
-ASP.NET Web API Routing
-</a>
-<br>
 
-<h3>ASP.NET MVC</h3>
-<a href="/Articles/ASP.NET MVC Model Binding.pdf" target="_blank">
-ASP.NET MVC Model Binding
-</a>
-<br>
-<a href="/Articles/ASP.NET MVC HtmlHelpers.pdf" target="_blank">
-ASP.NET MVC HtmlHelpers
-</a>
-<br>
-<a href="/Articles/ASP.NET MVC Return Types.pdf" target="_blank">
-ASP.NET MVC Return Types
-</a>
-<br>
-<a href="/Articles/ASP.NET MVC Roles.pdf" target="_blank">
-ASP.NET MVC Roles
-</a>
-<br>
-<a href="/Articles/ASP.NET MVC Routing.pdf" target="_blank">
-ASP.NET MVC Routing
-</a>
-<br>
-<a href="/Articles/ASP.NET MVC Validation.pdf" target="_blank">
-ASP.NET MVC Validation
-</a>
-<br>
-
-<h3>ASP.NET Core Web API</h3>
-<a href="/Articles/ASP.NET Core  Web API Return Types.pdf" target="_blank">
-ASP.NET Core  Web API Return Types</a>
-<br>
-<a href="/Articles/ASP.NET Core Web API Binding Sources.pdf" target="_blank">
-ASP.NET Core Web API Binding Sources 
-</a>
-<br>
-<a href="/Articles/ASP.NET Core Web API ApiController Attribute.pdf" target="_blank">
-ASP.NET Core Web API ApiController Attribute
-</a>
-<br>
-<a href="/Articles/ASP.NET Core Web API Formatters.pdf" target="_blank">
-ASP.NET Core Web API Formatters
-</a>
-<br>
-<a href="/Articles/ASP.NET Core Web API Routing.pdf" target="_blank">
-ASP.NET Core Web API Routing
-</a>
-<br>
-<a href="/Articles/Richardson Maturity Model and Six Constrains.pdf" target="_blank">
-Richardson Maturity Model and Six Constrains
-</a>
-<br>
-<a href="/Articles/Dto.pdf" target="_blank">
-Dto
-</a>
-<br>
 <a href="/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">
 UnitOfWork and Repository Pattern
 </a>
@@ -659,24 +586,7 @@ UnitOfWork and Repository Pattern
 <a href="/Articles/Repositoty Service Pattern.pdf" target="_blank">
 Repositoty Service Pattern
 </a>
-<br>
 
-
-<h3>ASP.NET Core MVC</h3>
-<a href="/Articles/ASP.NET Core MVC Binding Sources.pdf" target="_blank">
-ASP.NET Core MVC Binding Sources</a>
-<br>
-<a href="/Articles/ASP.NET Core MVC Return Types.pdf" target="_blank">
-ASP.NET Core MVC Return Types
-</a>
-<br>
-<a href="/Articles/ASP.NET Core Razor View.pdf" target="_blank">
-ASP.NET Core Razor View
-</a>
-<br>
-<a href="/Articles/ASP.NET Core Tag Helpers.pdf" target="_blank">
-ASP.NET Core Tag Helpers
-</a>
 <br>
 <a href="/Articles/ASP.NET Core Logging.pdf" target="_blank">
 ASP.NET Core Logging
