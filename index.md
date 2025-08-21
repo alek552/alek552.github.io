@@ -577,7 +577,9 @@ Taborda</td>
 <a href="/Articles/.NET & C#" target="_blank">.NET & C#</a>
 <br>
 
-
+<a href="/Articles/Async vs Sync Api.pdf" target="_blank">
+Async vs Sync Api
+</a>
 
 <a href="/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">
 UnitOfWork and Repository Pattern
@@ -742,23 +744,6 @@ Export Import mdf Database file</a>
 <a href="https://www.typescriptlang.org/docs/handbook/compiler-options.html" target="_blank">TSConfig Options</a>
 <br>
 
-<h3>Common</h3>
-<a href="/Articles/Async vs Sync Api.pdf" target="_blank">
-Async vs Sync Api
-</a>
-<br>
-<a href="/Articles/IEnumerable and IEnumerator.pdf" target="_blank">
-IEnumerable and IEnumerator
-</a>
-<br>
-<a href="/Articles/Json Serilizer.pdf" target="_blank">
-Json Serilizer
-</a>
-<br>
-<a href="/Articles/Library Manager Libman.pdf" target="_blank">
-Library Manager Libman
-</a>
-<br>
 
 <h3>Visual Studio Code</h3>
 <a href="/Articles/visual studio code shortcuts for windows.pdf" target="_blank">Visual Studio Code Shortcuts for Windows</a>
