@@ -574,7 +574,7 @@ Taborda</td>
 <br>
 
 <h3>.NET & C#</h3>
-<a href="/Articles/.NET & Csharp" target="_blank">.NET & C#</a>
+<a href="/Articles/.NET and Csharp" target="_blank">.NET & C#</a>
 <br>
 <a href="/Articles/Async vs Sync Api.pdf" target="_blank">Async vs Sync Api</a>
 <br>
