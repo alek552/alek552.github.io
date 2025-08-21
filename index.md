@@ -573,128 +573,72 @@ Taborda</td>
 <a href="/Articles/JavaScript Callbacks vs Promises vs AsyncAwait.pdf" target="_blank">JavaScript Callbacks vs Promises vs AsyncAwait</a>
 <br>
 
-<h3>C#</h3>
+<h3>.NET & C#</h3>
 <a href="/Articles/.NET & Csharp" target="_blank">.NET & C#</a>
 <br>
-
-<a href="/Articles/Async vs Sync Api.pdf" target="_blank">
-Async vs Sync Api
-</a>
-
-<a href="/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">
-UnitOfWork and Repository Pattern
-</a>
+<a href="/Articles/Async vs Sync Api.pdf" target="_blank">Async vs Sync Api</a>
 <br>
-<a href="/Articles/Repositoty Service Pattern.pdf" target="_blank">
-Repositoty Service Pattern
-</a>
-
+<a href="/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">UnitOfWork and Repository Pattern</a>
 <br>
-<a href="/Articles/ASP.NET Core Logging.pdf" target="_blank">
-ASP.NET Core Logging
-</a>
+<a href="/Articles/Repositoty Service Pattern.pdf" target="_blank">Repositoty Service Pattern</a>
 <br>
-<a href="/Articles/ASP.NET Core ConfigureServices and Configure.pdf" target="_blank">
-ASP.NET Core ConfigureServices and Configure
-</a>
+<a href="/Articles/ASP.NET Core Logging.pdf" target="_blank">ASP.NET Core Logging</a>
 <br>
-<a href="/Articles/ASP.NET Core Configure Host Builder.pdf" target="_blank">
-ASP.NET Core Configure Host Builder
-</a>
+<a href="/Articles/ASP.NET Core ConfigureServices and Configure.pdf" target="_blank">ASP.NET Core ConfigureServices and Configure</a>
 <br>
-<a href="/Articles/ASP.NET Core Captured Dependency.pdf" target="_blank">
-ASP.NET Core Captured Dependency
-</a>
+<a href="/Articles/ASP.NET Core Configure Host Builder.pdf" target="_blank">ASP.NET Core Configure Host Builder</a>
 <br>
-<a href="/Articles/ASP.NET Core Auto Mapper.pdf" target="_blank">
-ASP.NET Core Auto Mapper
-</a>
+<a href="/Articles/ASP.NET Core Captured Dependency.pdf" target="_blank">ASP.NET Core Captured Dependency</a>
 <br>
-<a href="/Articles/ASP.NET Core Attributes.pdf" target="_blank">
-ASP.NET Core Attributes
-</a>
+<a href="/Articles/ASP.NET Core Auto Mapper.pdf" target="_blank">ASP.NET Core Auto Mapper</a>
 <br>
-<a href="/Articles/ASP NET Core Identity.pdf" target="_blank">
-ASP NET Core Identity
-</a>
+<a href="/Articles/ASP.NET Core Attributes.pdf" target="_blank">ASP.NET Core Attributes</a>
 <br>
-<a href="/Articles/JWT Tokens.pdf" target="_blank">
-JWT Tokens
-</a>
+<a href="/Articles/ASP NET Core Identity.pdf" target="_blank">ASP NET Core Identity</a>
 <br>
-<a href="/Articles/ASP.NET Core IActionResult.pdf" target="_blank">
-ASP.NET Core IActionResult
-</a>
+<a href="/Articles/JWT Tokens.pdf" target="_blank">JWT Tokens</a>
 <br>
-<a href="/Articles/Serilog.pdf" target="_blank">
-Serilog
-</a>
+<a href="/Articles/ASP.NET Core IActionResult.pdf" target="_blank">ASP.NET Core IActionResult</a>
 <br>
-<a href="/Articles/asp.net core errors.pdf" target="_blank">
-asp.net core errors
-</a>
+<a href="/Articles/Serilog.pdf" target="_blank">Serilog</a>
+<br>
+<a href="/Articles/asp.net core errors.pdf" target="_blank">asp.net core errors</a>
+<br>
+<a href="/Articles/ADO.NET.pdf" target="_blank">ADO.NET</a>
 <br>
 
 <h3>Entity Framework Core</h3>
-<a href="/Articles/ASP.NET Core Entity Framework Core.pdf" target="_blank">
-ASP.NET Core Entity Framework Core
-</a>
+<a href="/Articles/ASP.NET Core Entity Framework Core.pdf" target="_blank">ASP.NET Core Entity Framework Core</a>
 <br>
-<a href="/Articles/Entity Framework Core EntryState.pdf" target="_blank">
-Entity Framework Core EntryState
-</a>
+<a href="/Articles/Entity Framework Core EntryState.pdf" target="_blank">Entity Framework Core EntryState</a>
 <br>
 
 <h3>Debug</h3>
-<a href="/Articles/Debug when out of scope.pdf" target="_blank">
-Debug when out of scope
-</a>
+<a href="/Articles/Debug when out of scope.pdf" target="_blank">Debug when out of scope</a>
 <br>
 
 
 <h3>SQL</h3>
-<a href="/Articles/Microsoft sqlserver cheet sheet.pdf" target="_blank">
-Microsoft sqlserver cheet sheet
-</a>
+<a href="/Articles/Microsoft sqlserver cheet sheet.pdf" target="_blank">Microsoft sqlserver cheet sheet</a>
 <br>
-<a href="/Articles/Cartasion explosion.pdf" target="_blank">
-Cartasion explosion
-</a>
+<a href="/Articles/Cartasion explosion.pdf" target="_blank">Cartasion explosion</a>
 <br>
 
-<a href="/Articles/Cascade on Foreign keys.pdf" target="_blank">
-Cascade on Foreign keys
-</a>
+<a href="/Articles/Cascade on Foreign keys.pdf" target="_blank">Cascade on Foreign keys</a>
 <br>
-<a href="/Articles/SQL order of execution.pdf" target="_blank">
-SQL order of execution
-</a>
+<a href="/Articles/SQL order of execution.pdf" target="_blank">SQL order of execution</a>
 <br>
-<a href="/Articles/SQL Relationships.pdf" target="_blank">
-SQL Relationships
-</a>
+<a href="/Articles/SQL Relationships.pdf" target="_blank">SQL Relationships</a>
 <br>
-<a href="/Articles/Transaction SQL.pdf" target="_blank">
-Transaction SQL
-</a>
+<a href="/Articles/Transaction SQL.pdf" target="_blank">Transaction SQL</a>
 <br>
 
 <h3>Database</h3>
-<a href="/Articles/Restoe Database with .Bak.pdf" target="_blank">
-Restoe Database with .Bak</a>
+<a href="/Articles/Restoe Database with .Bak.pdf" target="_blank">Restoe Database with .Bak</a>
 <br>
-<a href="/Articles/Export Import mdf Database file.pdf" target="_blank">
-Export Import mdf Database file</a>
+<a href="/Articles/Export Import mdf Database file.pdf" target="_blank">Export Import mdf Database file</a>
 <br>
 
-
-<h3>ADO.NET</h3>
-<a href="/Articles/ADO.NET.pdf" target="_blank">ADO.NET</a>
-<br>
-
-<h3>Html</h3>
-<a href="/Articles/Html.pdf" target="_blank">Html</a>
-<br>
 
 <h3>Angular</h3>
 <a href="/Articles/Angular Learning Path 2020.pdf" target="_blank">Angular Learning Path 2020</a>
@@ -714,7 +658,6 @@ Export Import mdf Database file</a>
 <a href="/Articles/NgModel declarations imports exports bootstraps arrays.pdf" target="_blank">NgModel declarations imports exports bootstraps arrays</a>
 <br>
 <a href="/Articles/Loading same module on different routing paths.pdf" target="_blank">Loading same module on different routing paths</a>
-<br>
 <br>
 <a href="/Articles/Change Detection from Angular 2 (zone.js) to Angular 18.pdf" target="_blank">Change Detection from Angular 2 (zone.js) to Angular 18</a>
 <br>
