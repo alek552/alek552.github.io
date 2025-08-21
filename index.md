@@ -613,17 +613,11 @@ Taborda</td>
 <a href="/Articles/Entity Framework Core EntryState.pdf" target="_blank">Entity Framework Core EntryState</a>
 <br>
 
-<h3>Debug</h3>
-<a href="/Articles/Debug when out of scope.pdf" target="_blank">Debug when out of scope</a>
-<br>
-
-
 <h3>SQL</h3>
 <a href="/Articles/Microsoft sqlserver cheet sheet.pdf" target="_blank">Microsoft sqlserver cheet sheet</a>
 <br>
 <a href="/Articles/Cartasion explosion.pdf" target="_blank">Cartasion explosion</a>
 <br>
-
 <a href="/Articles/Cascade on Foreign keys.pdf" target="_blank">Cascade on Foreign keys</a>
 <br>
 <a href="/Articles/SQL order of execution.pdf" target="_blank">SQL order of execution</a>
@@ -631,12 +625,6 @@ Taborda</td>
 <a href="/Articles/SQL Relationships.pdf" target="_blank">SQL Relationships</a>
 <br>
 <a href="/Articles/Transaction SQL.pdf" target="_blank">Transaction SQL</a>
-<br>
-
-<h3>Database</h3>
-<a href="/Articles/Restoe Database with .Bak.pdf" target="_blank">Restoe Database with .Bak</a>
-<br>
-<a href="/Articles/Export Import mdf Database file.pdf" target="_blank">Export Import mdf Database file</a>
 <br>
 
 
@@ -677,6 +665,13 @@ Taborda</td>
 <br>
 
 
+<h3>Database</h3>
+<a href="/Articles/Restoe Database with .Bak.pdf" target="_blank">Restoe Database with .Bak</a>
+<br>
+<a href="/Articles/Export Import mdf Database file.pdf" target="_blank">Export Import mdf Database file</a>
+<br>
+
+
 <h3>Git</h3>
 <a href="/Articles/Git-Cheat-Sheet.pdf" target="_blank">Git Cheat Sheet</a>
 
@@ -690,6 +685,11 @@ Taborda</td>
 
 <h3>Visual Studio Code</h3>
 <a href="/Articles/visual studio code shortcuts for windows.pdf" target="_blank">Visual Studio Code Shortcuts for Windows</a>
+
+
+<h3>Debug</h3>
+<a href="/Articles/Debug when out of scope.pdf" target="_blank">Debug when out of scope</a>
+<br>
 
 
 <h3>Test</h3>
