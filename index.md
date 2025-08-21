@@ -565,11 +565,13 @@ Taborda</td>
 <a href="/Articles/Best Practices for JWT Authentication in Angular Apps.pdf" target="_blank">Best Practices for JWT Authentication in Angular Apps</a>
 <br>
 
-<h3>Microservices</h3>
+<h3>Software Architectural Styles</h3>
 <a href="/Articles/Microservices.pdf" target="_blank">Microservices</a>
 <br>
 
 <h3>JavaScript</h3>
+<a href="/Articles/JavaScript.pdf" target="_blank">JavaScript Callbacks</a>
+<br>
 <a href="/Articles/JavaScript Callbacks vs Promises vs AsyncAwait.pdf" target="_blank">JavaScript Callbacks vs Promises vs AsyncAwait</a>
 <br>
 
