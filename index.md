@@ -655,7 +655,7 @@ Taborda</td>
 <h3>NgRx</h3>
 <a href="/Articles/NgRx Action Reducer Selectors Effects.pdf" target="_blank">NgRx Action Reducer Selectors Effects</a>
 <br>
-<a href="/Articles/NgRx Facades.pdf" target="_blank">NgRx Action Reducer Selectors Effects</a>
+<a href="/Articles/NgRx Facades.pdf" target="_blank">NgRx Facades</a>
 <br>
 
 <h3>TypeScript</h3>
