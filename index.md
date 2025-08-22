@@ -578,8 +578,6 @@ Taborda</td>
 <h3>.NET & C#</h3>
 <a href="/Articles/NET & Csharp.pdf" target="_blank">.NET & C#</a>
 <br>
-<a href="/Articles/Async vs Sync Api.pdf" target="_blank">Async vs Sync Api</a>
-<br>
 <a href="/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">UnitOfWork and Repository Pattern</a>
 <br>
 <a href="/Articles/Repositoty Service Pattern.pdf" target="_blank">Repositoty Service Pattern</a>
@@ -600,11 +598,7 @@ Taborda</td>
 <br>
 <a href="/Articles/JWT Tokens.pdf" target="_blank">JWT Tokens</a>
 <br>
-<a href="/Articles/ASP.NET Core IActionResult.pdf" target="_blank">ASP.NET Core IActionResult</a>
-<br>
 <a href="/Articles/Serilog.pdf" target="_blank">Serilog</a>
-<br>
-<a href="/Articles/asp.net core errors.pdf" target="_blank">asp.net core errors</a>
 <br>
 <a href="/Articles/ADO.NET.pdf" target="_blank">ADO.NET</a>
 <br>
