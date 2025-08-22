@@ -569,6 +569,12 @@ Taborda</td>
 <a href="/Articles/Microservices.pdf" target="_blank">Microservices</a>
 <br>
 
+<h3>Design Pattern</h3>
+<a href="/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">UnitOfWork and Repository Pattern</a>
+<br>
+<a href="/Articles/Repositoty Service Pattern.pdf" target="_blank">Repositoty Service Pattern</a>
+<br>
+
 <h3>JavaScript</h3>
 <a href="/Articles/JavaScript.pdf" target="_blank">JavaScript Callbacks</a>
 <br>
@@ -577,10 +583,6 @@ Taborda</td>
 
 <h3>.NET & C#</h3>
 <a href="/Articles/NET & Csharp.pdf" target="_blank">.NET & C#</a>
-<br>
-<a href="/Articles/UnitOfWork and Repository Pattern.pdf" target="_blank">UnitOfWork and Repository Pattern</a>
-<br>
-<a href="/Articles/Repositoty Service Pattern.pdf" target="_blank">Repositoty Service Pattern</a>
 <br>
 <a href="/Articles/ASP.NET Core Logging.pdf" target="_blank">ASP.NET Core Logging</a>
 <br>
